@@ -7,4 +7,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
+######################################################################
+# RUI-version = F.17
+# Kernel version = 5.4.254
 ```
