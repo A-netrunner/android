@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/qualcomm/lahaina/device.mk)
 
 PRODUCT_DEVICE := lahaina
-PRODUCT_NAME := omni_lahaina
+PRODUCT_NAME := twrp_lahaina
 PRODUCT_BRAND := qti
 PRODUCT_MODEL := Lahaina for arm64
 PRODUCT_MANUFACTURER := qualcomm
